@@ -1,0 +1,25 @@
+*{margin:0; padding:0;}
+.container-fluid.bgcolor{
+	background-color:#3b5998; 
+}
+
+.container-fluid.bgc{
+	background-color:#dfe3ee;
+
+    margin-top: -16px;
+    	border: none;
+  	outline: none;
+  	border-radius: 20px;
+  	border-radius:20px;
+  	
+}
+
+button, input, optgroup, select, textarea {
+    margin: 5px;
+    }
+ .text-box
+ {
+
+ 
+  border-radius:10px;
+}

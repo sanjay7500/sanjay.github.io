@@ -1,0 +1,24 @@
+*{margin:0; padding:0;}
+
+body{
+
+}
+header{
+	background: #415e9b;
+	height: 82px;
+	border-bottom: 1px solid #133783;
+}
+.header-block{
+	width: 992px;
+	margin: 0 auto;
+}
+.logo{
+	width: 50%;
+	float:left;
+
+}
+.fb-login
+{
+	width: 50%;
+	float: left;
+}
